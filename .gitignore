@@ -36,7 +36,7 @@ yarn-error.log*
 js/coverage/
 js/dist/
 js/build/
-js/tests/sol.test.js
+js/practice/practice_write_run_tests/tests/sol.test.js
 
 # IDE specific
 .vscode/

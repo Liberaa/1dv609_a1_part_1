@@ -46,7 +46,12 @@ Prepare:
 * Be prepared to run the tests, to measure coverage, and use mocking.
 * Be prepared to edit and write code.
 * Be prepared to answer questions about any part of your code.
-* During examination you will write one or more unit test for new a function that you will be given during examination. You should be able to write unit-tests for that function, run the test, measure coverage. You should be able to select "assert/expect method" depending on the type of function to one of the suitable used in practice tasks. 
+* During examination you will write one or more unit test for new a function that you will be given during examination. You should be able to write unit-tests for that function, run the test, measure coverage. You should be able to select "assert/expect method" depending on the type of function to one of the suitable used in practice tasks.
+   * Prepare so you know how to test:
+      * Exceptions, return values, calls on the mock object(s). (jest: toHaveBeenCalledWith, junit: verify)
+      * Direct and indirect input
+      * Tests of constructors and methods on the object, in Javascript, also on functions without objects
+      * mock dependencies
 * During the examination you are also asked a couple of questions related to the practice task and the study material specified.
 * You are not allowed to use AI to solve the task during the examination. You may look at the practice tasks during this examination.
 * You will also be asked questions from the list below.
